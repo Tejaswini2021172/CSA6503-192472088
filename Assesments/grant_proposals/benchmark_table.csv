@@ -1,0 +1,6 @@
+Metric,FAISS,ChromaDB
+Embedding Model,all-MiniLM-L6-v2,all-MiniLM-L6-v2
+Dataset Size,230,230
+Indexing Time (sec),0.031,0.128
+Average Query Time (ms),1.45,4.72
+Storage Size (MB),0.31,1.8

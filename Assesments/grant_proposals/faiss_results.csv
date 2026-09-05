@@ -1,0 +1,51 @@
+Query,Rank,Proposal_ID,Title,Domain,Methodology,Distance
+Deep learning for medical diagnosis,1,P066,Robust Medical Imaging using Graph Neural Networks,Healthcare,Graph Neural Networks,0.9965531826019287
+Deep learning for medical diagnosis,2,P015,Robust Medical Imaging using Explainable AI,Healthcare,Explainable AI,1.0098369121551514
+Deep learning for medical diagnosis,3,P122,Advanced Medical Imaging using Machine Learning,Healthcare,Machine Learning,1.012131690979004
+Deep learning for medical diagnosis,4,P003,Advanced Cancer Detection using Machine Learning,Healthcare,Machine Learning,1.0613925457000732
+Deep learning for medical diagnosis,5,P101,Smart Patient Monitoring using Machine Learning,Healthcare,Machine Learning,1.0752698183059692
+Climate prediction using machine learning,1,P158,Novel Weather Prediction using Predictive Analytics,Climate Science,Predictive Analytics,0.7664581537246704
+Climate prediction using machine learning,2,P178,Novel Climate Modeling using Federated Learning,Climate Science,Federated Learning,0.781484067440033
+Climate prediction using machine learning,3,P140,Novel Climate Modeling using Computer Vision,Climate Science,Computer Vision,0.8115147948265076
+Climate prediction using machine learning,4,P032,Scalable Weather Prediction using Transformer Models,Climate Science,Transformer Models,0.8377112150192261
+Climate prediction using machine learning,5,P025,Smart Climate Modeling using Graph Neural Networks,Climate Science,Graph Neural Networks,0.9068533778190613
+Blockchain based supply chain,1,P071,Intelligent Inventory Prediction using Blockchain,Retail,Blockchain,0.8637537360191345
+Blockchain based supply chain,2,P205,Fault Detection using Blockchain,Manufacturing,Blockchain,1.0272748470306396
+Blockchain based supply chain,3,P008,Robust Predictive Maintenance using Blockchain,Manufacturing,Blockchain,1.0784143209457397
+Blockchain based supply chain,4,P100,Robust Renewable Energy Forecasting using Blockchain,Energy,Blockchain,1.1849262714385986
+Blockchain based supply chain,5,P014,Scalable Water Quality using Blockchain,Environmental Science,Blockchain,1.2341225147247314
+Robotics for industrial automation,1,P150,AI-Based Industrial Robots using Natural Language Processing,Robotics,Natural Language Processing,0.8660345077514648
+Robotics for industrial automation,2,P192,Industrial Robots using Graph Neural Networks,Robotics,Graph Neural Networks,0.951701283454895
+Robotics for industrial automation,3,P181,AI-Based Warehouse Automation using Predictive Analytics,Robotics,Predictive Analytics,1.0019162893295288
+Robotics for industrial automation,4,P044,Automated Warehouse Automation using Computer Vision,Robotics,Computer Vision,1.002882480621338
+Robotics for industrial automation,5,P052,Novel Industrial Robots using Graph Neural Networks,Robotics,Graph Neural Networks,1.0176081657409668
+IoT smart irrigation,1,P107,Novel Yield Prediction using Internet of Things,Agriculture,Internet of Things,0.8205602169036865
+IoT smart irrigation,2,P028,AI-Based Smart Irrigation using Big Data Analytics,Agriculture,Big Data Analytics,0.8835809230804443
+IoT smart irrigation,3,P199,Smart Irrigation using Federated Learning,Agriculture,Federated Learning,0.8985953330993652
+IoT smart irrigation,4,P133,Smart Crop Disease Detection using Internet of Things,Agriculture,Internet of Things,0.9946541786193848
+IoT smart irrigation,5,P033,Intelligent Flood Forecasting using Internet of Things,Climate Science,Internet of Things,1.0955411195755005
+Cyber attack detection using AI,1,P194,Network Security using Transformer Models,Cybersecurity,Transformer Models,1.0919604301452637
+Cyber attack detection using AI,2,P196,Phishing Detection using Deep Learning,Cybersecurity,Deep Learning,1.1262867450714111
+Cyber attack detection using AI,3,P206,Threat Intelligence using Blockchain,Cybersecurity,Blockchain,1.1519047021865845
+Cyber attack detection using AI,4,P171,Robust Network Security using Predictive Analytics,Cybersecurity,Predictive Analytics,1.1783376932144165
+Cyber attack detection using AI,5,P097,Robust Threat Intelligence using Computer Vision,Cybersecurity,Computer Vision,1.1834349632263184
+Transformer models for education analytics,1,P006,AI-Based Curriculum Recommendation using Transformer Models,Education,Transformer Models,0.6014503836631775
+Transformer models for education analytics,2,P078,Robust Attendance Analysis using Transformer Models,Education,Transformer Models,0.708693265914917
+Transformer models for education analytics,3,P157,Intelligent Learning Analytics using Computer Vision,Education,Computer Vision,0.8030573129653931
+Transformer models for education analytics,4,P094,AI-Based Personalized Learning using Big Data Analytics,Education,Big Data Analytics,0.940709114074707
+Transformer models for education analytics,5,P208,Student Performance Prediction using Predictive Analytics,Education,Predictive Analytics,1.062145709991455
+Renewable energy forecasting,1,P072,AI-Based Renewable Energy Forecasting using Computer Vision,Energy,Computer Vision,0.6623726487159729
+Renewable energy forecasting,2,P100,Robust Renewable Energy Forecasting using Blockchain,Energy,Blockchain,0.8445674180984497
+Renewable energy forecasting,3,P108,Smart Renewable Energy Forecasting using Internet of Things,Energy,Internet of Things,0.8496221303939819
+Renewable energy forecasting,4,P050,AI-Based Wind Energy Analysis using Deep Learning,Energy,Deep Learning,0.9033041000366211
+Renewable energy forecasting,5,P032,Scalable Weather Prediction using Transformer Models,Climate Science,Transformer Models,0.9304141998291016
+AI fraud detection,1,P005,Smart Fraud Detection using Explainable AI,Finance,Explainable AI,0.6232372522354126
+AI fraud detection,2,P057,Hybrid Fraud Detection using Machine Learning,Finance,Machine Learning,0.7311620116233826
+AI fraud detection,3,P059,AI-Based Fraud Detection using Predictive Analytics,Finance,Predictive Analytics,0.9239432215690613
+AI fraud detection,4,P105,Intelligent Crop Disease Detection using Explainable AI,Agriculture,Explainable AI,1.1131603717803955
+AI fraud detection,5,P191,Fake News Detection using Graph Neural Networks,Social Media,Graph Neural Networks,1.1358885765075684
+Projects using Graph Neural Networks in different application domains,1,P052,Novel Industrial Robots using Graph Neural Networks,Robotics,Graph Neural Networks,0.8998823165893555
+Projects using Graph Neural Networks in different application domains,2,P063,Automated Robot Navigation using Graph Neural Networks,Robotics,Graph Neural Networks,0.9632657170295715
+Projects using Graph Neural Networks in different application domains,3,P017,Smart Production Planning using Graph Neural Networks,Manufacturing,Graph Neural Networks,0.9959328174591064
+Projects using Graph Neural Networks in different application domains,4,P019,Novel Air Quality Analysis using Graph Neural Networks,Climate Science,Graph Neural Networks,1.0555756092071533
+Projects using Graph Neural Networks in different application domains,5,P066,Robust Medical Imaging using Graph Neural Networks,Healthcare,Graph Neural Networks,1.0691440105438232
