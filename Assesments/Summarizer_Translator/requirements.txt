@@ -1,0 +1,9 @@
+streamlit
+google-genai
+python-dotenv
+sumy
+nltk
+PyPDF2
+deep-translator
+pandas
+plotly
