@@ -1,0 +1,10 @@
+Artificial Intelligence is transforming healthcare.
+Machine learning helps detect fraud in banking.
+Cloud computing enables scalable applications.
+Python is one of the most popular programming languages.
+Deep learning is a subset of machine learning.
+Cybersecurity protects systems against digital attacks.
+Prompt engineering improves interactions with Large Language Models.
+Data science combines statistics, programming, and domain knowledge.
+Natural Language Processing enables computers to understand human language.
+Vector databases store embeddings for semantic search.
